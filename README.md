@@ -1,1 +1,3 @@
-# Reimplementation of Underscore.js library using vanilla JavaScript.
+#Underscore.js
+
+My reimplementation of popular JavaScript library Underscore.js using vanilla JavaScript.
